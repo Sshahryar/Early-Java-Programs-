@@ -1,11 +1,11 @@
-/** bingocard.java
-* Bingo.java
+/* bingocard.java
+* Sshahryar
 * My first java application
 * This class explains Bingo Rules
-* Sshahryar
 */
 
   public class BingoCard {
+    
     public static void main(String[] args) {
      
         System.out.println("Bingo Rules\n");
