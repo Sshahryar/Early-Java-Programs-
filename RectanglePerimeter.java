@@ -1,13 +1,8 @@
 /* RectanglePerimeter.java
- * Hussain Shahryar
- * ICS-201 2a ch4a review 1
- * Date: 2022-12-07
+ * Sshahryar
+ * Calculates and displays the perimeter of a rectangle
  */
 
-
-/**
-* Calculates and displays the perimeter of a rectangle
-*/
 public class RectanglePerimeter  {
     
     public static void main(String[] args) {
