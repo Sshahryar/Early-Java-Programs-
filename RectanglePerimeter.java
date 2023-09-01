@@ -15,7 +15,6 @@ public class RectanglePerimeter  {
         
     System.out.println("Perimeter of rectangle;  " + perimeter); 
         
-
     System.out.println("Perimeter of rectangle:  " + perimeter);
 
     }
