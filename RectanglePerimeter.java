@@ -13,9 +13,7 @@ public class RectanglePerimeter  {
 
     perimeter = 2 * length + 2 * width;
         
-    System.out.println("Perimeter of rectangle;  " + perimeter); 
-        
-    System.out.println("Perimeter of rectangle:  " + perimeter);
+    System.out.println("Perimeter of rectangle:  " + perimeter); 
 
     }
 }
