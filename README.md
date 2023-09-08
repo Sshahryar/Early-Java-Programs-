@@ -1,4 +1,4 @@
-# Early-Java-Programs-
+## Early-Java-Programs-
 
 First-ever Java programs I made from 2022-2023.
 
@@ -8,7 +8,7 @@ Programs prompts from "A Guide To Programming in Java: Java 2 Platform Standard 
 
 __
 
-1. bingocard.java
+# 1. bingocard.java
 
 Description: bingocard.java was my first ever java program, it is a simple application that prints out a simple bingo ruleset such as that in a bingo card:
 
@@ -18,3 +18,7 @@ Description: bingocard.java was my first ever java program, it is a simple appli
 4. If the number is located, it is marked off.
 5. Steps 1 to 4 are repeated until a player matched the BINGO pattern.
 6. The winning player yells BINGO.
+
+Source Code:
+
+
