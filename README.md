@@ -20,8 +20,6 @@ __
 6. The winning player yells BINGO.
 
 ### Source Code:
-
-public class bingocard {
     
     public static void main(String[] args) {
      
@@ -36,5 +34,21 @@ public class bingocard {
     } 
 
 ### Output: 
+
+Bingo Rules
+
+1. The caller randomly pulls a numbered bingo hall.       
+
+2. The number is placed on the bingo board and called out.
+
+3. Players look for for the called number on their bingo card.
+
+4. If the number is located, it is marked off.
+
+5. Steps 1 to 4 are repeated until a player matched the BINGO pattern.
+
+6. The winning player yells BINGO.
+   
+__
 
 
