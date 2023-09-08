@@ -10,7 +10,7 @@ __
 
 ## 1. bingocard.java
 
-###Description: bingocard.java was my first ever java program, it is a simple application that prints out a simple bingo ruleset such as that in a bingo card:
+### Description: bingocard.java was my first ever java program, it is a simple application that prints out a simple bingo ruleset such as that in a bingo card:
 
 1. The caller randomly pulls a numbered bingo hall.
 2. The number is placed on the bingo board and called out.
@@ -19,7 +19,7 @@ __
 5. Steps 1 to 4 are repeated until a player matched the BINGO pattern.
 6. The winning player yells BINGO.
 
-###Source Code:
+### Source Code:
 
 public class bingocard {
     
@@ -35,6 +35,6 @@ public class bingocard {
 
     } 
 
-###Output: 
+### Output: 
 
 
