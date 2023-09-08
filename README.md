@@ -51,4 +51,56 @@ Bingo Rules
    
 __
 
+## Distance2.java
+
+### Description: 
+
+Calculates and displays the total distance of a race with three segments based on the distance of each race segment entered by the user.
+
+### Source Code:
+
+    public static void main(String[] args) {  
+  
+         double length1;  //Length of segment 1 
+         double length2;  //Length of segment 2 
+         double length3;  //Length of segment 3 
+  
+         Scanner input = new Scanner(System.in);   
+  
+         System.out.print("Enter the length1: "); 
+         length1=input.nextDouble(); 
+  
+         System.out.print("Enter the length2: "); 
+         length2=input.nextDouble(); 
+  
+         System.out.print("Enter the length3: "); 
+         length3=input.nextDouble(); 
+  
+         double distance = length1 + length2 + length3; 
+  
+         System.out.print("Enter the name:  "); 
+  
+         String name; 
+         name = input.next(); 
+  
+         input.close(); 
+  
+         System.out.println(name + " ran these many kilometers = " + distance); 
+  
+     }
+
+ ### Output:
+
+Enter the length1: 10
+Enter the length2: 15
+Enter the length3: 20
+Enter the name:  Sshahryar
+Sshahryar ran these many kilometers = 45.0
+
+In this scenario of the code, the first length was entered as 10(km), the second length as 15(km) and the third as 20(km).
+After adding the runner's name (in this case Sshahryar) the final output is: (Runner name) ran these many kilometers = (km's), in this case: Sshahryar ran these many kilometers = 45.0.
+
+__
+    
+
 
