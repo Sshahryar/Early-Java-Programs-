@@ -102,7 +102,7 @@ Enter the name:  Sshahryar
 Sshahryar ran these many kilometers = 45.0
 
 In this scenario of the code, the first length was entered as 10(km), the second length as 15(km) and the third as 20(km).
-After adding the runner's name (in this case Sshahryar) the final output is: (Runner name) ran these many kilometers = (km's), in this case: Sshahryar ran these many kilometers = 45.0.
+After adding the runner's name (in this case Sshahryar) the final output is: (Runner name) ran these many kilometers = (km's): Sshahryar ran these many kilometers = 45.0.
 
 __
     
@@ -111,8 +111,6 @@ __
 Calculates and displays the perimeter of a rectangle with a length of 13 and a width of 4.
 
 ### Source code:
-
-public class RectanglePerimeter  {
     
     public static void main(String[] args) {
     
