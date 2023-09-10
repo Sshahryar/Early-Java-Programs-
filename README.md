@@ -104,6 +104,7 @@ Enter the name:  Sshahryar
 Sshahryar ran these many kilometers = 45.0
 
 
+
 In this scenario of the code, the first length was entered as 10(km), the second length as 15(km) and the third as 20(km).
 
 After adding the runner's name (in this case Sshahryar) the final output is: (Runner name) ran these many kilometers = (km's): Sshahryar ran these many kilometers = 45.0.
@@ -171,6 +172,7 @@ The application should prompt the user for the value of the radius. The circumfe
 Enter the radius of the circle: 88
 
 Circumference of the circle is: 552.64
+
 
 
 In this scenario of the code, the radius was entered as 88. 
