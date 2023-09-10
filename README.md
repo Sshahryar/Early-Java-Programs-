@@ -51,7 +51,7 @@ Bingo Rules
    
 __
 
-## Distance2.java
+## 2. Distance2.java
 
 ### Description: 
 
@@ -106,7 +106,9 @@ After adding the runner's name (in this case Sshahryar) the final output is: (Ru
 
 __
     
-## 1. RectanglePerimeter.java
+## 3. RectanglePerimeter.java
+
+### Description: 
 
 Calculates and displays the perimeter of a rectangle with a length of 13 and a width of 4.
 
@@ -129,3 +131,47 @@ Calculates and displays the perimeter of a rectangle with a length of 13 and a w
 Perimeter of rectangle:  34
 
 __
+
+## 4. CircleCirc.java
+
+### Description:
+
+Create a CircleCircumference application the calculates and displays the circumference of a circle. 
+The application should prompt the user for the value of the radius. The circumference of a circle is calculated as 2πr. Use variables and constants as appropriate.
+
+### Source Code:
+
+public static void main(String args[]){
+      
+      double radius;
+      double π;
+      double circumference;
+      
+      Scanner sc = new Scanner(System.in);
+      
+      System.out.print("Enter the radius of the circle: ");
+      radius = sc.nextDouble();
+      
+      π = 3.14;
+      
+      circumference = 2*π*radius;
+      
+      System.out.println("Circumference of the circle is: "+circumference);
+
+      sc.close();
+    
+    }
+
+### Output:
+
+Enter the radius of the circle: 88
+
+Circumference of the circle is: 552.64
+
+In this scenario of the code, the radius was entered as 88. 
+Circumference of the circle: (in this case with a radius of 88) = Circumference of the circle is 552.64. 
+
+
+
+
+
