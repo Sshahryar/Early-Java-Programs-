@@ -37,19 +37,19 @@ bingocard.java was my first ever java program, it is a simple application that p
 
 ### Output: 
 
-Bingo Rules
+    Bingo Rules
 
-1. The caller randomly pulls a numbered bingo hall.       
+    1. The caller randomly pulls a numbered bingo hall.       
 
-2. The number is placed on the bingo board and called out.
+    2. The number is placed on the bingo board and called out.
+    
+    3. Players look for for the called number on their bingo card.
 
-3. Players look for for the called number on their bingo card.
+    4. If the number is located, it is marked off.
 
-4. If the number is located, it is marked off.
+    5. Steps 1 to 4 are repeated until a player matched the BINGO pattern.
 
-5. Steps 1 to 4 are repeated until a player matched the BINGO pattern.
-
-6. The winning player yells BINGO.
+    6. The winning player yells BINGO.
    
 __
 
@@ -93,17 +93,15 @@ Calculates and displays the total distance of a race with three segments based o
 
 ### Output:
 
-Enter the length1: 10
+    Enter the length1: 10
 
-Enter the length2: 15
+    Enter the length2: 15
 
-Enter the length3: 20
+    Enter the length3: 20
 
-Enter the name:  Sshahryar
+    Enter the name:  Sshahryar
 
-Sshahryar ran these many kilometers = 45.0
-
-
+    Sshahryar ran these many kilometers = 45.0
 
 In this scenario of the code, the first length was entered as 10(km), the second length as 15(km) and the third as 20(km).
 
@@ -133,7 +131,7 @@ Calculates and displays the perimeter of a rectangle with a length of 13 and a w
 
 ### Output: 
 
-Perimeter of rectangle:  34
+    Perimeter of rectangle:  34
 
 __
 
@@ -169,20 +167,12 @@ The application should prompt the user for the value of the radius. The circumfe
 
 ### Output:
 
-Enter the radius of the circle: 88
+    Enter the radius of the circle: 88
 
-Circumference of the circle is: 552.64
-
-
+    Circumference of the circle is: 552.64
 
 In this scenario of the code, the radius was entered as 88. 
 
 Circumference of the circle: (in this case with a radius of 88) = Circumference of the circle is 552.64. 
 
 __
-
-
-
-
-
-
