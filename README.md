@@ -89,7 +89,7 @@ Calculates and displays the total distance of a race with three segments based o
   
      }
 
- ### Output:
+### Output:
 
 Enter the length1: 10
 
@@ -106,5 +106,28 @@ After adding the runner's name (in this case Sshahryar) the final output is: (Ru
 
 __
     
+## 1. RectanglePerimeter.java
 
+Calculates and displays the perimeter of a rectangle with a length of 13 and a width of 4.
 
+### Source code:
+
+public class RectanglePerimeter  {
+    
+    public static void main(String[] args) {
+    
+    int length = 13; //longer side of rectangle
+    int width = 4; //shorter side of rectangle
+    int perimeter; //calculated perimeter of rectangle                                  
+
+    perimeter = 2 * length + 2 * width;
+        
+    System.out.println("Perimeter of rectangle:  " + perimeter); 
+
+    }
+
+### Output: 
+
+Perimeter of rectangle:  34
+
+__
