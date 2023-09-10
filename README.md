@@ -92,9 +92,13 @@ Calculates and displays the total distance of a race with three segments based o
  ### Output:
 
 Enter the length1: 10
+
 Enter the length2: 15
+
 Enter the length3: 20
+
 Enter the name:  Sshahryar
+
 Sshahryar ran these many kilometers = 45.0
 
 In this scenario of the code, the first length was entered as 10(km), the second length as 15(km) and the third as 20(km).
