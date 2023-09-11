@@ -176,3 +176,9 @@ In this scenario of the code, the radius was entered as 88.
 Circumference of the circle: (in this case with a radius of 88) = Circumference of the circle is 552.64. 
 
 __
+
+## 5. CircleCirc2.java
+
+### Description: 
+
+
