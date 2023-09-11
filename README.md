@@ -181,4 +181,6 @@ __
 
 ### Description: 
 
-Similar to CircleCirc.java, however, returns 
+Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon the user entering negative radii. 
+
+### Source Code: 
