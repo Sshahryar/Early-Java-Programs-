@@ -213,4 +213,5 @@ Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon 
 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/b92e0ac7-3aaf-48d2-9a59-d2569bb43bc8)
 
+When entering a negative radii in CircleCirc2.java you will get the error message: Negative radii are illegal, contrary to CircleCirc.java.
 
