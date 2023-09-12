@@ -37,19 +37,8 @@ bingocard.java was my first ever java program, it is a simple application that p
 
 ### Output: 
 
-    Bingo Rules
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/4c826b24-0fd2-4a3a-93cf-2b68073164af)
 
-    1. The caller randomly pulls a numbered bingo hall.       
-
-    2. The number is placed on the bingo board and called out.
-    
-    3. Players look for for the called number on their bingo card.
-
-    4. If the number is located, it is marked off.
-
-    5. Steps 1 to 4 are repeated until a player matched the BINGO pattern.
-
-    6. The winning player yells BINGO.
    
 __
 
