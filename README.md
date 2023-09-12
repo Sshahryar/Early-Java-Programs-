@@ -22,7 +22,7 @@ bingocard.java was my first ever java program, it is a simple application that p
 6. The winning player yells BINGO.
 
 ### Source Code:
-    
+
     public static void main(String[] args) {
      
         System.out.println("Bingo Rules\n");
@@ -208,3 +208,9 @@ Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon 
            sc.close(); 
   
        }
+
+### Output: 
+
+    Enter the radius of the circle: -11
+    Negative radii are illegal.
+
