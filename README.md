@@ -211,9 +211,12 @@ Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon 
 
 ### Output: 
 
-    ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/e134666e-23d8-4aca-83cc-4d669730e9d1)
-
-    ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/b5f2e146-4ab9-4755-bcbd-7dd6df04a5b7)
+    <p align="center">
+  <img src="![Screenshot (2)](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/1ab392de-4616-4042-b09c-37a1f1baeed7)
+" width="350" title="]CircleCirc2.java output">
+  <img src="![Screenshot (2)](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/a4bb4c12-cdfd-4f47-ab0b-a4815671b12e)
+" width="350" alt="accessibility text">
+</p>
 
 
 
