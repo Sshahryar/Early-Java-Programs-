@@ -133,6 +133,8 @@ The application should prompt the user for the value of the radius. The circumfe
 
 ### Source Code:
 
+    public class CircleCirc {
+
     public static void main(String args[]){
 
       double radius;
@@ -156,14 +158,11 @@ The application should prompt the user for the value of the radius. The circumfe
 
 ### Output:
 
-    Enter the radius of the circle: 88
-
-    Circumference of the circle is: 552.64
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/83ba8889-0456-4f63-9b28-499de8222f4f)
 
 In this scenario of the code, the radius was entered as 88. 
 
-Circumference of the circle: (in this case with a radius of 88) = Circumference of the circle is 552.64. 
-
+Circumference of the circle is 552.645 
 __
 
 ## 5. CircleCirc2.java
@@ -204,5 +203,4 @@ Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon 
 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/b92e0ac7-3aaf-48d2-9a59-d2569bb43bc8)
 
-When entering a negative radii in CircleCirc2.java you will get the error message: Negative radii are illegal. Contrary to CircleCirc.java.
-
+When entering a negative radii in CircleCirc2.java you will get the error message: Negative radii are illegal. Contrary to CircleCirc.java
