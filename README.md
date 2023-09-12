@@ -211,6 +211,6 @@ Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon 
 
 ### Output: 
 
-    Enter the radius of the circle: -11
-    Negative radii are illegal.
+    ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/e134666e-23d8-4aca-83cc-4d669730e9d1)
+
 
