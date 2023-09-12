@@ -185,6 +185,8 @@ Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon 
 
 ### Source Code: 
 
+    public class CircleCirc2 {
+
     public static void main(String args[]){ 
   
        double radius; 
