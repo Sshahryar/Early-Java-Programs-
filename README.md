@@ -211,6 +211,6 @@ Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon 
 
 ### Output: 
 
-(![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/b92e0ac7-3aaf-48d2-9a59-d2569bb43bc8)
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/b92e0ac7-3aaf-48d2-9a59-d2569bb43bc8)
 
 
