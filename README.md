@@ -52,6 +52,8 @@ Calculates and displays the total distance of a race with three segments based o
 
 ### Source Code:
 
+    public class Distance2  {
+
     public static void main(String[] args) {  
   
          double length1;  //Length of segment 1 
@@ -84,19 +86,14 @@ Calculates and displays the total distance of a race with three segments based o
 
 ### Output:
 
-    Enter the length1: 10
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/63916fe8-0dd9-42b8-86d6-da295dd56242)
 
-    Enter the length2: 15
-
-    Enter the length3: 20
-
-    Enter the name:  Sshahryar
-
-    Sshahryar ran these many kilometers = 45.0
 
 In this scenario of the code, the first length was entered as 10(km), the second length as 15(km) and the third as 20(km).
 
-After adding the runner's name (in this case Sshahryar) the final output is: (Runner name) ran these many kilometers = (km's): Sshahryar ran these many kilometers = 45.0.
+After adding the runner's name (in this case Sshahryar) the final output is: (Runner name) ran these many kilometers = (km's).
+
+Sshahryar ran these many kilometers = 45.0.
 
 __
     
