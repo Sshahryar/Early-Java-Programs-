@@ -23,6 +23,8 @@ bingocard.java was my first ever java program, it is a simple application that p
 
 ### Source Code:
 
+    public class bingocard {
+  
     public static void main(String[] args) {
      
         System.out.println("Bingo Rules\n");
