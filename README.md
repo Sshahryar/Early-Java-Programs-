@@ -22,7 +22,9 @@ bingocard.java was my first ever java program, it is a simple application that p
 6. The winning player yells BINGO.
 
 ### Source Code:
-    
+
+    public class bingocard {
+  
     public static void main(String[] args) {
      
         System.out.println("Bingo Rules\n");
@@ -37,19 +39,8 @@ bingocard.java was my first ever java program, it is a simple application that p
 
 ### Output: 
 
-    Bingo Rules
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/4c826b24-0fd2-4a3a-93cf-2b68073164af)
 
-    1. The caller randomly pulls a numbered bingo hall.       
-
-    2. The number is placed on the bingo board and called out.
-    
-    3. Players look for for the called number on their bingo card.
-
-    4. If the number is located, it is marked off.
-
-    5. Steps 1 to 4 are repeated until a player matched the BINGO pattern.
-
-    6. The winning player yells BINGO.
    
 __
 
@@ -60,6 +51,8 @@ __
 Calculates and displays the total distance of a race with three segments based on the distance of each race segment entered by the user.
 
 ### Source Code:
+
+    public class Distance2  {
 
     public static void main(String[] args) {  
   
@@ -93,19 +86,14 @@ Calculates and displays the total distance of a race with three segments based o
 
 ### Output:
 
-    Enter the length1: 10
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/63916fe8-0dd9-42b8-86d6-da295dd56242)
 
-    Enter the length2: 15
-
-    Enter the length3: 20
-
-    Enter the name:  Sshahryar
-
-    Sshahryar ran these many kilometers = 45.0
 
 In this scenario of the code, the first length was entered as 10(km), the second length as 15(km) and the third as 20(km).
 
-After adding the runner's name (in this case Sshahryar) the final output is: (Runner name) ran these many kilometers = (km's): Sshahryar ran these many kilometers = 45.0.
+After adding the runner's name (in this case Sshahryar) the final output is: (Runner name) ran these many kilometers = (km's).
+
+Sshahryar ran these many kilometers = 45.0.
 
 __
     
@@ -144,6 +132,8 @@ The application should prompt the user for the value of the radius. The circumfe
 
 ### Source Code:
 
+    public class CircleCirc {
+
     public static void main(String args[]){
 
       double radius;
@@ -167,14 +157,11 @@ The application should prompt the user for the value of the radius. The circumfe
 
 ### Output:
 
-    Enter the radius of the circle: 88
-
-    Circumference of the circle is: 552.64
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/83ba8889-0456-4f63-9b28-499de8222f4f)
 
 In this scenario of the code, the radius was entered as 88. 
 
-Circumference of the circle: (in this case with a radius of 88) = Circumference of the circle is 552.64. 
-
+Circumference of the circle is 552.645 
 __
 
 ## 5. CircleCirc2.java
@@ -184,6 +171,8 @@ __
 Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon the user entering negative radii. 
 
 ### Source Code: 
+
+    public class CircleCirc2 {
 
     public static void main(String args[]){ 
   
@@ -208,3 +197,9 @@ Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon 
            sc.close(); 
   
        }
+
+### Output: 
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/b92e0ac7-3aaf-48d2-9a59-d2569bb43bc8)
+
+When entering a negative radii in CircleCirc2.java you will get the error message: Negative radii are illegal. Contrary to CircleCirc.java
