@@ -104,7 +104,9 @@ __
 Calculates and displays the perimeter of a rectangle with a length of 13 and a width of 4.
 
 ### Source code:
-    
+
+    public class RectanglePerimeter  {
+  
     public static void main(String[] args) {
     
     int length = 13; //longer side of rectangle
@@ -119,7 +121,7 @@ Calculates and displays the perimeter of a rectangle with a length of 13 and a w
 
 ### Output: 
 
-    Perimeter of rectangle:  34
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/9563aabd-b21d-4f03-b8ab-43b40980d9f4)
 
 __
 
