@@ -23,9 +23,9 @@ bingocard.java was my first ever java program, it is a simple application that p
 
 ### Source Code:
 
-    public class bingocard {
+        public class bingocard {
   
-    public static void main(String[] args) {
+        public static void main(String[] args) {
      
         System.out.println("Bingo Rules\n");
         System.out.println("1. The caller randomly pulls a numbered bingo hall.\n");
@@ -34,8 +34,9 @@ bingocard.java was my first ever java program, it is a simple application that p
         System.out.println("4. If the number is located, it is marked off.\n");
         System.out.println("5. Steps 1 to 4 are repeated until a player matched the BINGO pattern.\n"); 
         System.out.println("6. The winning player yells BINGO.\n");
-
-    } 
+    
+        } 
+        }
 
 ### Output: 
 
@@ -52,10 +53,10 @@ Calculates and displays the total distance of a race with three segments based o
 
 ### Source Code:
 
-    public class Distance2  {
-
-    public static void main(String[] args) {  
-  
+         public class Distance2  {
+ 
+         public static void main(String[] args) {  
+      
          double length1;  //Length of segment 1 
          double length2;  //Length of segment 2 
          double length3;  //Length of segment 3 
@@ -81,9 +82,10 @@ Calculates and displays the total distance of a race with three segments based o
          input.close(); 
   
          System.out.println(name + " ran these many kilometers = " + distance); 
-  
-     }
-
+         
+         }
+         }
+    
 ### Output:
 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/63916fe8-0dd9-42b8-86d6-da295dd56242)
@@ -106,7 +108,7 @@ Calculates and displays the perimeter of a rectangle with a length of 13 and a w
 ### Source code:
 
     public class RectanglePerimeter  {
-  
+    
     public static void main(String[] args) {
     
     int length = 13; //longer side of rectangle
@@ -117,6 +119,7 @@ Calculates and displays the perimeter of a rectangle with a length of 13 and a w
         
     System.out.println("Perimeter of rectangle:  " + perimeter); 
 
+    }
     }
 
 ### Output: 
