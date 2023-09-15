@@ -230,11 +230,11 @@ Create a Digits application that prompts the user for a two-digit number and the
 
 ## Source code:
  
-  import java.util.Scanner; 
+   import java.util.Scanner; 
   
-  public class Digits {
+   public class Digits {
 
-  public static void main(String[] args) { 
+   public static void main(String[] args) { 
 
       int num, ten, one; 
   
