@@ -53,6 +53,8 @@ Calculates and displays the total distance of a race with three segments based o
 
 ### Source Code:
 
+         import java.util.Scanner;
+
          public class Distance2  {
  
          public static void main(String[] args) {  
