@@ -232,9 +232,9 @@ Create a Digits application that prompts the user for a two-digit number and the
  
   import java.util.Scanner; 
   
-  public class Digits 
-  
-  {public static void main(String[] args) { 
+  public class Digits {
+
+  public static void main(String[] args) { 
   
       int num, ten, one; 
   
