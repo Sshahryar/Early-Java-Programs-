@@ -215,3 +215,5 @@ __
 ## Digits.java
 
 ### Description:
+
+Create a Digits application that prompts the user for a two-digit number and then displays the digits in the ones-place and tens-place.
