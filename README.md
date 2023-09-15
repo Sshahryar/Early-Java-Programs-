@@ -235,7 +235,7 @@ Create a Digits application that prompts the user for a two-digit number and the
   public class Digits {
 
   public static void main(String[] args) { 
-  
+
       int num, ten, one; 
   
       Scanner input=new Scanner(System.in); 
