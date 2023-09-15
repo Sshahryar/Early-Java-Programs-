@@ -141,6 +141,8 @@ The application should prompt the user for the value of the radius. The circumfe
 
 ### Source Code:
 
+    import java.util.Scanner;
+
     public class CircleCirc {
 
     public static void main(String args[]){
