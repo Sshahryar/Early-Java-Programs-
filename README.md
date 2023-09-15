@@ -109,6 +109,8 @@ Calculates and displays the perimeter of a rectangle with a length of 13 and a w
 
 ### Source code:
 
+    import java.util.Scanner;
+
     public class RectanglePerimeter  {
     
     public static void main(String[] args) {
