@@ -165,6 +165,7 @@ The application should prompt the user for the value of the radius. The circumfe
       sc.close();
     
     }
+    }   
 
 ### Output:
 
