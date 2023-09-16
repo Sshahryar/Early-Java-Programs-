@@ -24,7 +24,7 @@ bingocard.java was my first ever java program, it is a simple application that p
 ### Source Code:
 
         public class bingocard {
-  
+        
         public static void main(String[] args) {
      
         System.out.println("Bingo Rules\n");
@@ -34,7 +34,7 @@ bingocard.java was my first ever java program, it is a simple application that p
         System.out.println("4. If the number is located, it is marked off.\n");
         System.out.println("5. Steps 1 to 4 are repeated until a player matched the BINGO pattern.\n"); 
         System.out.println("6. The winning player yells BINGO.\n");
-    
+
         } 
         }
 
@@ -42,7 +42,6 @@ bingocard.java was my first ever java program, it is a simple application that p
 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/4c826b24-0fd2-4a3a-93cf-2b68073164af)
 
-   
 __
 
 ## 2. Distance2.java
@@ -53,40 +52,40 @@ Calculates and displays the total distance of a race with three segments based o
 
 ### Source Code:
 
-         import java.util.Scanner;
+        import java.util.Scanner;
 
-         public class Distance2  {
+        public class Distance2  {
  
-         public static void main(String[] args) {  
+        public static void main(String[] args) {  
       
-         double length1;  //Length of segment 1 
-         double length2;  //Length of segment 2 
-         double length3;  //Length of segment 3 
+        double length1;  //Length of segment 1 
+        double length2;  //Length of segment 2 
+        double length3;  //Length of segment 3 
   
-         Scanner input = new Scanner(System.in);   
+        Scanner input = new Scanner(System.in);   
   
-         System.out.print("Enter the length1: "); 
-         length1=input.nextDouble(); 
+        System.out.print("Enter the length1: "); 
+        length1=input.nextDouble(); 
   
-         System.out.print("Enter the length2: "); 
-         length2=input.nextDouble(); 
+        System.out.print("Enter the length2: "); 
+        length2=input.nextDouble(); 
   
-         System.out.print("Enter the length3: "); 
-         length3=input.nextDouble(); 
+        System.out.print("Enter the length3: "); 
+        length3=input.nextDouble(); 
   
-         double distance = length1 + length2 + length3; 
+        double distance = length1 + length2 + length3; 
   
-         System.out.print("Enter the name:  "); 
+        System.out.print("Enter the name:  "); 
   
-         String name; 
-         name = input.next(); 
+        String name; 
+        name = input.next(); 
   
-         input.close(); 
+        input.close(); 
   
-         System.out.println(name + " ran these many kilometers = " + distance); 
+        System.out.println(name + " ran these many kilometers = " + distance); 
          
-         }
-         }
+        }
+        }
     
 ### Output:
 
