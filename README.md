@@ -108,22 +108,22 @@ Calculates and displays the perimeter of a rectangle with a length of 13 and a w
 
 ### Source code:
 
-    import java.util.Scanner;
+        import java.util.Scanner;
 
-    public class RectanglePerimeter  {
+        public class RectanglePerimeter  {
     
-    public static void main(String[] args) {
+        public static void main(String[] args) {
     
-    int length = 13; //longer side of rectangle
-    int width = 4; //shorter side of rectangle
-    int perimeter; //calculated perimeter of rectangle                                  
+        int length = 13; //longer side of rectangle
+        int width = 4; //shorter side of rectangle
+        int perimeter; //calculated perimeter of rectangle                                  
 
-    perimeter = 2 * length + 2 * width;
+        perimeter = 2 * length + 2 * width;
         
-    System.out.println("Perimeter of rectangle:  " + perimeter); 
+        System.out.println("Perimeter of rectangle:  " + perimeter); 
 
-    }
-    }
+        }
+        }
 
 ### Output: 
 
@@ -140,31 +140,31 @@ The application should prompt the user for the value of the radius. The circumfe
 
 ### Source Code:
 
-    import java.util.Scanner;
+        import java.util.Scanner;
 
-    public class CircleCirc {
+        public class CircleCirc {
 
-    public static void main(String args[]){
+        public static void main(String args[]){
 
-      double radius;
-      double π;
-      double circumference;
+        double radius;
+        double π;
+        double circumference;
       
-      Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
       
-      System.out.print("Enter the radius of the circle: ");
-      radius = sc.nextDouble();
+        System.out.print("Enter the radius of the circle: ");
+        radius = sc.nextDouble();
       
-      π = 3.14;
+        π = 3.14;
       
-      circumference = 2*π*radius;
+        circumference = 2*π*radius;
       
-      System.out.println("Circumference of the circle is: "+circumference);
+        System.out.println("Circumference of the circle is: "+circumference);
 
-      sc.close();
+        sc.close();
     
-    }
-    }   
+        }
+        }   
 
 ### Output:
 
@@ -184,34 +184,34 @@ Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon 
 
 ### Source Code: 
 
-    import java.util.Scanner;
+        import java.util.Scanner;
 
-    public class CircleCirc2 {
+        public class CircleCirc2 {
 
-    public static void main(String args[]){ 
+        public static void main(String args[]){ 
   
-       double radius; 
-       double π; 
-       double circumference; 
+        double radius; 
+        double π; 
+        double circumference; 
   
-       Scanner sc = new Scanner(System.in); 
+        Scanner sc = new Scanner(System.in); 
   
-       System.out.print("Enter the radius of the circle: "); 
-       radius = sc.nextDouble(); 
+        System.out.print("Enter the radius of the circle: "); 
+        radius = sc.nextDouble(); 
   
-       π = 3.14; 
+        π = 3.14; 
   
-       circumference = 2*π*radius; 
+        circumference = 2*π*radius; 
   
-       if (radius <0) { 
-          System.out.println( "Negative radii are illegal."); 
+        if (radius <0) { 
+        System.out.println( "Negative radii are illegal."); 
         } else if(radius >0){ 
-           System.out.println( "Circumference of the circle is: "+circumference); 
+        System.out.println( "Circumference of the circle is: "+circumference); 
   
-           sc.close(); 
+        sc.close(); 
   
-       }
-       }
+        }
+        }
 
 ### Output: 
 
@@ -229,27 +229,27 @@ Create a Digits application that prompts the user for a two-digit number and the
 
 ## Source code:
  
-    import java.util.Scanner; 
+        import java.util.Scanner; 
   
-    public class Digits {
+        public class Digits {
 
-    public static void main(String[] args{ 
+        public static void main(String[] args{ 
 
-      int num, ten, one; 
+        int num, ten, one; 
   
-      Scanner input=new Scanner(System.in); 
+        Scanner input=new Scanner(System.in); 
   
-      System.out.print("Enter a two digit number: "); 
-      num=input.nextInt(); 
+        System.out.print("Enter a two digit number: "); 
+        num=input.nextInt(); 
   
-      input.close(); 
+        input.close(); 
   
-      ten= num/10; 
-      one= num%10; 
+        ten= num/10; 
+        one= num%10; 
   
-      System.out.println("Tens place = "+ ten); 
+        System.out.println("Tens place = "+ ten); 
   
-      System.out.println("Ones place = "+ one); 
+        System.out.println("Ones place = "+ one); 
   
-    } 
-    }
+        } 
+        }
