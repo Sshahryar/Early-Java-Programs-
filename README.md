@@ -8,6 +8,8 @@ Programs prompts from "A Guide To Programming in Java: Java 2 Platform Standard 
 
 __
 
+# The Programs: 
+
 ## 1. bingocard.java
 
 ### Description: 
