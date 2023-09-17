@@ -93,9 +93,7 @@ Calculates and displays the total distance of a race with three segments based o
 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/63916fe8-0dd9-42b8-86d6-da295dd56242)
 
-In this scenario of the code, the first length was entered as 10(km), the second length as 15(km) and the third as 20(km).
-
-After adding the runner's name (in this case Sshahryar) the final output is: (Runner name) ran these many kilometers = (km's).
+In this scenario of the code, the first length was entered as 10(km), the second length as 15(km), and the third as 20(km), then ended with the runner's name entered as Sshahryar. 
 
 __
     
@@ -170,13 +168,14 @@ The application should prompt the user for the value of the radius. The circumfe
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/83ba8889-0456-4f63-9b28-499de8222f4f)
 
 In this scenario of the code, the radius was entered as 88. 
+
 __
 
 ## 5. CircleCirc2.java
 
 ### Description: 
 
-Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon the user entering negative radii. 
+Like CircleCirc.java, however, returns "Negative radii are illegal." upon the user entering negative radii. 
 
 ### Source Code: 
 
@@ -213,7 +212,7 @@ Similar to CircleCirc.java, however, returns "Negative radii are illegal." upon 
 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/b92e0ac7-3aaf-48d2-9a59-d2569bb43bc8)
 
-When entering a negative radii in CircleCirc2.java you will get the error message: Negative radii are illegal. Contrary to CircleCirc.java
+When entering negative radii in CircleCirc2.java you will get the error message: Negative radii are illegal. Contrary to CircleCirc.java
 
 __
 
@@ -253,3 +252,5 @@ Create a Digits application that prompts the user for a two-digit number and the
 ### Output:
 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/70c1ca0f-47ef-451e-8b5a-5bf03a8c308a)
+
+In this scenario of the code, the two-digit number was entered as 56.
