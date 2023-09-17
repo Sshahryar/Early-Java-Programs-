@@ -261,3 +261,8 @@ __
 
 ### Description:
 
+Create a SurfsUp application that prompts the user for the wave height and then displays "Great day for surfing!" when the waves are 6 feet and over.
+
+### Source code:
+
+
