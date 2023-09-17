@@ -216,7 +216,7 @@ When entering negative radii in CircleCirc2.java you will get the error message:
 
 __
 
-## Digits.java
+## 6. Digits.java
 
 ### Description:
 
@@ -254,3 +254,10 @@ Create a Digits application that prompts the user for a two-digit number and the
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/70c1ca0f-47ef-451e-8b5a-5bf03a8c308a)
 
 In this scenario of the code, the two-digit number was entered as 56.
+
+__
+
+## 7. SurfUp.java
+
+### Description:
+
