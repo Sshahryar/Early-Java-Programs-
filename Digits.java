@@ -7,7 +7,7 @@
 
  public class Digits
  
- {public static void main(String[] args) {
+ public static void main(String[] args) {
      
      int num, ten, one;
   
