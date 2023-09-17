@@ -252,4 +252,6 @@ Create a Digits application that prompts the user for a two-digit number and the
 
 ### Output:
 
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/6e0addab-a3f6-4548-9a04-8e8947978ad1)
+
 
