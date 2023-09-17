@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bf179e7-ddf2-44aa-ae57-f51fa03f726d" name="Changes" comment="error fixing attemp">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Early-Java-Programs-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Early-Java-Programs-.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/Users/hussa/OneDrive/Documents/GitHub/Early-Java-Programs-",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
@@ -65,7 +67,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Java Scratch.scratch">
+  <component name="RunManager" selected="Application.Digits">
     <configuration name="CircleCirc" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircleCirc" />
       <module name="Early-Java-Programs-" />
@@ -119,10 +121,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.scratch" />
         <item itemvalue="Application.Digits (1)" />
         <item itemvalue="Application.RectanglePerimeter" />
         <item itemvalue="Application.Distance2" />
-        <item itemvalue="Java Scratch.scratch" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +161,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="error fixing attemp" />
     <option name="LAST_COMMIT_MESSAGE" value="error fixing attemp" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Digits.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Early_Java_Programs_$Digits.ic" NAME="Digits Coverage Results" MODIFIED="1694917913520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
