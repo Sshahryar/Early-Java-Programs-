@@ -8,6 +8,8 @@ Programs prompts from "A Guide To Programming in Java: Java 2 Platform Standard 
 
 __
 
+# The Programs: 
+
 ## 1. bingocard.java
 
 ### Description: 
@@ -91,12 +93,9 @@ Calculates and displays the total distance of a race with three segments based o
 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/63916fe8-0dd9-42b8-86d6-da295dd56242)
 
-
 In this scenario of the code, the first length was entered as 10(km), the second length as 15(km) and the third as 20(km).
 
 After adding the runner's name (in this case Sshahryar) the final output is: (Runner name) ran these many kilometers = (km's).
-
-Sshahryar ran these many kilometers = 45.0.
 
 __
     
@@ -171,9 +170,6 @@ The application should prompt the user for the value of the radius. The circumfe
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/83ba8889-0456-4f63-9b28-499de8222f4f)
 
 In this scenario of the code, the radius was entered as 88. 
-
-Circumference of the circle is 552.645 
-
 __
 
 ## 5. CircleCirc2.java
@@ -227,7 +223,7 @@ __
 
 Create a Digits application that prompts the user for a two-digit number and then displays the digits in the ones-place and tens-place.
 
-## Source code:
+### Source code:
  
         import java.util.Scanner; 
   
@@ -253,3 +249,7 @@ Create a Digits application that prompts the user for a two-digit number and the
   
         } 
         }
+
+### Output:
+
+
