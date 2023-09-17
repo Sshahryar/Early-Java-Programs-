@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1bf179e7-ddf2-44aa-ae57-f51fa03f726d" name="Changes" comment="error fixing attemp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Digits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +65,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Digits">
+  <component name="RunManager" selected="Application.CircleCirc2">
     <configuration name="CircleCirc" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircleCirc" />
+      <module name="Early-Java-Programs-" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleCirc2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircleCirc2" />
       <module name="Early-Java-Programs-" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,6 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CircleCirc2" />
         <item itemvalue="Java Scratch.scratch" />
         <item itemvalue="Application.Digits (1)" />
         <item itemvalue="Application.RectanglePerimeter" />
