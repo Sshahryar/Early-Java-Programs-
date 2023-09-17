@@ -6,7 +6,6 @@
  import java.util.Scanner;
 
  public class Digits {
- 
  public static void main(String[] args) {
      
      int num, ten, one;
