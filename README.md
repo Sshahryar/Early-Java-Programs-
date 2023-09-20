@@ -296,7 +296,7 @@ Create a SurfsUp application that prompts the user for the wave height and then 
 
 ### Output:
 
-![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/ed0d445c-7a3c-4a3d-8e6b-2910afb1c150)
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/1635e0c6-55ce-4d10-b79a-9b815d81c239)
 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/37333796-13e2-4b38-b786-5b78a8faac74)
 
