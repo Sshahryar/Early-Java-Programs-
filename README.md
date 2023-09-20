@@ -261,7 +261,7 @@ __
 
 ### Description:
 
-Create a SurfsUp application that prompts the user for the wave height and then displays "Great day for surfing!" when the waves are 6 feet and over.
+Create a SurfsUp application that prompts the user for the wave height and then displays an appropriate activity for the wave height. 
 
 ### Source code:
         
@@ -295,4 +295,16 @@ Create a SurfsUp application that prompts the user for the wave height and then 
         }
 
 ### Output:
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/ed0d445c-7a3c-4a3d-8e6b-2910afb1c150)
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/37333796-13e2-4b38-b786-5b78a8faac74)
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/ffc95c81-0276-4650-bb05-0bd4476dfa0d)
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/4659c9e6-33ac-4328-8800-3917921bd0b6)
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/a7cf14e2-a897-423e-979a-a6c37421364f)
+
+
 
