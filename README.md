@@ -307,8 +307,12 @@ Create a SurfsUp application that prompts the user for the wave height and then 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/a7cf14e2-a897-423e-979a-a6c37421364f)
 
 When entering a wavelength of 78 or above the user will get the message: "Are you trying to break a record? The world record is 78 feet!"
+
 When entering a wavelength of 6 or above the user will get the message: "Great day for surfing!"
+
 When entering a wavelength of 3 or above the user will get the message: "Go body boarding!"
+
 When entering a wavelength of 0 or above the user will get the message: "Go for a swim."
+
 When entering a wavelength of negative integer (-1 and below) the user will get the message: "Whoa! What kind of surf is that??"
 
