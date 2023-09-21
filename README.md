@@ -316,3 +316,12 @@ When entering a wavelength of 0 or above the user will get the message: "Go for 
 
 When entering a wavelength of negative integer (-1 and below) the user will get the message: "Whoa! What kind of surf is that??"
 
+__
+
+## 8. TempConvert.java
+
+### Description:
+
+### Source Code:
+
+### Output:
