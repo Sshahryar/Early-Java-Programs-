@@ -1,8 +1,8 @@
-package JavaFiles;/* JavaFiles.Prompter.java
- * Sshahryar
- * Create a prompter application the user for two numbers. The first number is a min value and the second is a max value. JavaFiles.Prompter then prompts the user for a number between the min and max numbers entered.
- * The user should be continually prompted until a number within the range is entered. Be sure to include the min and max numbers in the prompt.
-*/
+/*Prompter.java
+* Sshahryar
+* Create a prompter application the user for two numbers. The first number is a min value and the second is a max value. JavaFiles.Prompter then prompts the user for a number between the min and max numbers entered.
+* The user should be continually prompted until a number within the range is entered. Be sure to include the min and max numbers in the prompt.
+* */
 
 import java.util.Scanner;
 
