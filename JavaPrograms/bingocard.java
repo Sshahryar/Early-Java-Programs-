@@ -1,4 +1,5 @@
 package JavaPrograms;
+
 public class bingocard {
 
     public static void main(String[] args) {

@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e34fd354-f184-4f79-b5e1-b3d7e5774643" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Early-Java-Programs-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Early-Java-Programs-.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/CircleCirc.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/CircleCirc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/CircleCirc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/CircleCirc2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/Digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/Distance2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/Distance2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/Prompter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/Prompter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/RectanglePerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/RectanglePerimeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/Stages.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/Stages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/SurfUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/SurfUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/TempConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/TempConvert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/bingocard.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/bingocard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrograms/Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrograms/bingocard.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/bingocard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +25,9 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2VgUsoZStfxdEbjGh5QHYgZLcjc" />
   <component name="ProjectViewState">
