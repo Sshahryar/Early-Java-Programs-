@@ -1,10 +1,7 @@
-/* RectanglePerimeter.java
-* Sshahryar
-* Calculates and displays the perimeter of a rectangle
-*/
+package JavaPrograms;
 
 public class RectanglePerimeter  {
-    
+
     public static void main(String[] args) {
     
     int length = 13; //longer side of rectangle

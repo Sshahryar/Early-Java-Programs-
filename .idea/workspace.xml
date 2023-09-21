@@ -6,16 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="e34fd354-f184-4f79-b5e1-b3d7e5774643" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/CircleCirc.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFiles/CircleCirc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/CircleCirc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFiles/CircleCirc2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFiles/Digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/Distance2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFiles/Distance2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/Prompter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFiles/Prompter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/RectanglePerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFiles/RectanglePerimeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/Stages.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFiles/Stages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/SurfUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFiles/SurfUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/TempConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFiles/TempConvert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFiles/bingocard.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFiles/bingocard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Early-Java-Programs-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Early-Java-Programs-.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFiles/CircleCirc.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/CircleCirc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFiles/CircleCirc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/CircleCirc2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFiles/Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFiles/Distance2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/Distance2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFiles/Prompter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/Prompter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFiles/RectanglePerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/RectanglePerimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFiles/Stages.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/Stages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFiles/SurfUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/SurfUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFiles/TempConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/TempConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFiles/bingocard.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrograms/bingocard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +41,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/hussa/OneDrive/Documents/GitHub/Early-Java-Programs-/JavaFiles",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hussa/OneDrive/Documents/GitHub/Early-Java-Programs-/JavaFiles&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hussa\OneDrive\Documents\GitHub\Early-Java-Programs-\JavaFiles" />
@@ -62,6 +63,20 @@
       <recent name="C:\Users\hussa\OneDrive\Documents\GitHub\Early-Java-Programs-\Early-Java-Programs-" />
       <recent name="C:\Users\hussa\OneDrive\Documents\GitHub\Early-Java-Programs-\.idea" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Distance2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Distance2" />
+      <module name="Early-Java-Programs-" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Distance2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
