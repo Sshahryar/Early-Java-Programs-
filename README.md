@@ -8,7 +8,7 @@ Programs prompts from "A Guide To Programming in Java: Java 2 Platform Standard 
 
 __
 
-# The Programs (In JavaFiles): 
+# The Programs (Programs in JavaPrograms package): 
 
 ## 1. bingocard.java
 
@@ -212,21 +212,21 @@ Like CircleCirc.java, however, returns "Negative radii are illegal." upon the us
 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/b92e0ac7-3aaf-48d2-9a59-d2569bb43bc8)
 
-When entering negative radii in JavaFiles.CircleCirc2.java you will get the error message: Negative radii are illegal. Contrary to JavaFiles.CircleCirc.java
+When entering negative radii in .CircleCirc2.java you will get the error message: Negative radii are illegal. Contrary to CircleCirc.java
 
 __
 
-## 6. JavaFiles.Digits.java
+## 6. Digits.java
 
 ### Description:
 
-Create a JavaFiles.Digits application that prompts the user for a two-digit number and then displays the digits in the ones-place and tens-place.
+Create a Digits application that prompts the user for a two-digit number and then displays the digits in the ones-place and tens-place.
 
 ### Source code:
  
         import java.util.Scanner; 
   
-        public class JavaFiles.Digits {
+        public class Digits {
 
         public static void main(String[] args{ 
 
