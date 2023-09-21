@@ -1,6 +1,6 @@
-/* Stages.java
+package JavaFiles;/* JavaFiles.Stages.java
  * Sshahryar
- * Create a Stages application that prompts the user for an age. For an age over 18, adult is diplayed. 
+ * Create a JavaFiles.Stages application that prompts the user for an age. For an age over 18, adult is diplayed.
  * For an age less than or equal to 18, toddler is displayed when the age is less than or equal to 5, child when the age is less than or equal to 10, 
 preteen when the age is less than or equal to 12, and teen when the age is over 12.
  */

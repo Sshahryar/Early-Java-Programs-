@@ -1,6 +1,6 @@
-/* Digits.java
+package JavaFiles;/* JavaFiles.Digits.java
 * Sshahryar
-* Create a Digits application that prompts the user for a two-digit number and then displays the ones-place and tens-place digits.
+* Create a JavaFiles.Digits application that prompts the user for a two-digit number and then displays the ones-place and tens-place digits.
 */
 
  import java.util.Scanner;

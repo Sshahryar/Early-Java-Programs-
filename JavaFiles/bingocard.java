@@ -1,4 +1,4 @@
-/* bingocard.java
+package JavaFiles;/* JavaFiles.bingocard.java
 * Sshahryar
 * My first java application
 * This class explains Bingo Rules
