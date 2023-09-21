@@ -1,2 +1,5 @@
-# Project exclude paths
-/target/
+/misc.xml/
+/modules.xml/
+/vcs.xml/
+/workspace.xml/
+/Early-Java-Program-.iml/
