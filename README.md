@@ -8,13 +8,13 @@ Programs prompts from "A Guide To Programming in Java: Java 2 Platform Standard 
 
 __
 
-# The Programs: 
+# The Programs (In JavaFiles): 
 
-## 1. JavaFiles.bingocard.java
+## 1. bingocard.java
 
 ### Description: 
 
-JavaFiles.bingocard.java was my first ever java program, it is a simple application that prints out a simple bingo ruleset such as that in a bingo card:
+bingocard.java was my first ever java program, it is a simple application that prints out a simple bingo ruleset such as that in a bingo card:
 
 1. The caller randomly pulls a numbered bingo hall.
 2. The number is placed on the bingo board and called out.
@@ -25,7 +25,7 @@ JavaFiles.bingocard.java was my first ever java program, it is a simple applicat
 
 ### Source Code:
 
-        public class JavaFiles.bingocard {
+        public class bingocard {
         
         public static void main(String[] args) {
      
@@ -46,7 +46,7 @@ JavaFiles.bingocard.java was my first ever java program, it is a simple applicat
 
 __
 
-## 2. JavaFiles.Distance2.java
+## 2. Distance2.java
 
 ### Description: 
 
@@ -56,7 +56,7 @@ Calculates and displays the total distance of a race with three segments based o
 
         import java.util.Scanner;
         
-        public class JavaFiles.Distance2  {
+        public class Distance2  {
  
         public static void main(String[] args) {  
       
@@ -97,7 +97,7 @@ In this scenario of the code, the first length was entered as 10(km), the second
 
 __
     
-## 3. JavaFiles.RectanglePerimeter.java
+## 3. RectanglePerimeter.java
 
 ### Description: 
 
@@ -107,7 +107,7 @@ Calculates and displays the perimeter of a rectangle with a length of 13 and a w
 
         import java.util.Scanner;
 
-        public class JavaFiles.RectanglePerimeter  {
+        public class RectanglePerimeter  {
     
         public static void main(String[] args) {
     
@@ -128,7 +128,7 @@ Calculates and displays the perimeter of a rectangle with a length of 13 and a w
 
 __
 
-## 4. JavaFiles.CircleCirc.java
+## 4. CircleCirc.java
 
 ### Description:
 
@@ -139,7 +139,7 @@ The application should prompt the user for the value of the radius. The circumfe
 
         import java.util.Scanner;
 
-        public class JavaFiles.CircleCirc {
+        public class CircleCirc {
 
         public static void main(String args[]){
 
@@ -171,17 +171,17 @@ In this scenario of the code, the radius was entered as 88.
 
 __
 
-## 5. JavaFiles.CircleCirc2.java
+## 5. CircleCirc2.java
 
 ### Description: 
 
-Like JavaFiles.CircleCirc.java, however, returns "Negative radii are illegal." upon the user entering negative radii. 
+Like CircleCirc.java, however, returns "Negative radii are illegal." upon the user entering negative radii. 
 
 ### Source Code: 
 
         import java.util.Scanner;
 
-        public class JavaFiles.CircleCirc2 {
+        public class CircleCirc2 {
 
         public static void main(String args[]){ 
   
@@ -257,7 +257,7 @@ In this scenario of the code, the two-digit number was entered as 56.
 
 __
 
-## 7. JavaFiles.SurfUp.java
+## 7. SurfUp.java
 
 ### Description:
 
@@ -267,7 +267,7 @@ Create a SurfsUp application that prompts the user for the wave height and then 
         
         import java.util.Scanner;
         
-        public class JavaFiles.SurfUp  {
+        public class SurfUp  {
     
         public static void main(String[] args)  {    
         
@@ -318,7 +318,7 @@ When entering a wavelength of negative integer (-1 and below) the user will get 
 
 __
 
-## 8. JavaFiles.TempConvert.java
+## 8. TempConvert.java
 
 ### Description:
 
@@ -332,7 +332,7 @@ Parentheses will be needed to specify the order of operations.
 
         import java.util.Scanner;
 
-        class JavaFiles.TempConvert{
+        class TempConvert{
 
         public static void main(String arg[])	{
         
