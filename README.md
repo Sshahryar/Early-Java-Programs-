@@ -322,6 +322,13 @@ __
 
 ### Description:
 
+Create a TempConverter application that converts a Fahrenheit temperature to the corresponding Celsius temperature. 
+
+The formula for converting Fahrenheit to Celsius is C= 5/9(F – 32). The application should prompt the user for the Fahrenheit temperature. Be sure to carefully form the expression. 
+
+Parentheses will be needed to specify the order of operations.
+
 ### Source Code:
+
 
 ### Output:
