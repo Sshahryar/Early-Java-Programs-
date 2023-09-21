@@ -66,7 +66,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SurfUp">
+  <component name="RunManager" selected="Application.TempConvert">
     <configuration name="CircleCirc" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircleCirc" />
       <module name="Early-Java-Programs-" />
@@ -104,15 +104,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectanglePerimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RectanglePerimeter" />
+    <configuration name="SurfUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SurfUp" />
       <module name="Early-Java-Programs-" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SurfUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SurfUp" />
+    <configuration name="TempConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TempConvert" />
       <module name="Early-Java-Programs-" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TempConvert" />
         <item itemvalue="Application.SurfUp" />
         <item itemvalue="Application.CircleCirc2" />
         <item itemvalue="Java Scratch.scratch" />
         <item itemvalue="Application.Digits (1)" />
-        <item itemvalue="Application.RectanglePerimeter" />
       </list>
     </recent_temporary>
   </component>
