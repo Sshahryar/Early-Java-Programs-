@@ -1,7 +1,7 @@
-package JavaFiles;/* JavaFiles.RectanglePerimeter.java
- * Sshahryar
- * Calculates and displays the perimeter of a rectangle
- */
+/* RectanglePerimeter.java
+* Sshahryar
+* Calculates and displays the perimeter of a rectangle
+*/
 
 public class RectanglePerimeter  {
     

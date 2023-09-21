@@ -1,7 +1,7 @@
-package JavaFiles;/* JavaFiles.Distance2.java
- * Sshahryar
- * Calculates and displays the total distance of a race with three segments based on the distance of each race segment entered by the user.
- */
+/* Distance2.java
+* Sshahryar
+* Calculates and displays the total distance of a race with three segments based on the distance of each race segment entered by the user.
+*/
 
 import java.util.Scanner;
 

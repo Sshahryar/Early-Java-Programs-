@@ -1,9 +1,9 @@
-package JavaFiles;/* JavaFiles.CircleCirc2.java
- * Sshahryar
- * Create a CircleCircumference application the calculates and displays the circumference of a circle. The application should prompt the user for the value of the radius. 
- * The circumference of a circle is calculated as 2πr. 
- * Use variables and constants as appropiate.
- */
+/* CircleCirc2.java
+* Sshahryar
+* Create a CircleCircumference application the calculates and displays the circumference of a circle. The application should prompt the user for the value of the radius.
+* The circumference of a circle is calculated as 2πr.
+* Use variables and constants as appropiate.
+*/
 
 import java.util.Scanner;
 
