@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bf179e7-ddf2-44aa-ae57-f51fa03f726d" name="Changes" comment="error fixing attemp">
+      <change beforePath="$PROJECT_DIR$/.idea/Early-Java-Programs-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Early-Java-Programs-.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +49,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/hussa/OneDrive/Documents/GitHub/Early-Java-Programs-/src",
-    "project.structure.last.edited": "Artifacts",
+    "last_opened_file_path": "C:/Users/hussa/OneDrive/Documents/GitHub/Early-Java-Programs-",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
@@ -64,6 +65,9 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Digits" />
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hussa\OneDrive\Documents\GitHub\Early-Java-Programs-\.idea" />
     </key>
   </component>
   <component name="RunManager" selected="Application.TempConvert">
