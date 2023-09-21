@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bf179e7-ddf2-44aa-ae57-f51fa03f726d" name="Changes" comment="error fixing attemp">
-      <change beforePath="$PROJECT_DIR$/.idea/Early-Java-Programs-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Early-Java-Programs-.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Early-Java-Programs-.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="1bf179e7-ddf2-44aa-ae57-f51fa03f726d" name="Changes" comment="error fixing attemp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/hussa/OneDrive/Documents/GitHub/Early-Java-Programs-",
+    "last_opened_file_path": "C:/Users/hussa/OneDrive/Documents/GitHub/Early-Java-Programs-/.idea",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
