@@ -316,3 +316,43 @@ When entering a wavelength of 0 or above the user will get the message: "Go for 
 
 When entering a wavelength of negative integer (-1 and below) the user will get the message: "Whoa! What kind of surf is that??"
 
+__
+
+## 8. TempConvert.java
+
+### Description:
+
+Create a TempConverter application that converts a Fahrenheit temperature to the corresponding Celsius temperature. 
+
+The formula for converting Fahrenheit to Celsius is C= 5/9(F – 32). The application should prompt the user for the Fahrenheit temperature. Be sure to form the expression carefully. 
+
+Parentheses will be needed to specify the order of operations.
+
+### Source Code:
+
+        import java.util.Scanner;
+
+        class TempConvert{
+
+        public static void main(String arg[])	{
+        
+        double a;
+
+        try (Scanner sc = new Scanner(System.in)) {
+        System.out.print("Enter Fahrenheit temperature: ");
+        a=sc.nextDouble(); }
+
+        System.out.println("Celsius temperature is: "+celsius(a)); }
+
+        static double celsius(double f)	{
+
+        return  (f-32)*5/9;
+	
+        }
+        }
+
+### Output:
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/f7d438ec-7f6f-42d8-8f63-7f96bb3d315b)
+
+In this scenario of the code, the Fahrenheit temperature was entered as 60.
