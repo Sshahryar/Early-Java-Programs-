@@ -8,7 +8,7 @@ Programs prompts from "A Guide To Programming in Java: Java 2 Platform Standard 
 
 __
 
-# The Programs (Programs in JavaPrograms package): 
+# The Programs (Programs in .javafiles folder): 
 
 ## 1. bingocard.java
 
