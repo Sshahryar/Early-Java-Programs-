@@ -396,4 +396,5 @@ Be sure to include the min and max numbers in the prompt.
 
  ### Output:
 
- 
+ ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/37a940ac-2ac9-408e-91bc-fe7a58bea749)
+
