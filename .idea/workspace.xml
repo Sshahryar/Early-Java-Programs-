@@ -42,7 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "C:/Users/hussa/OneDrive/Documents/GitHub/Early-Java-Programs-/JavaFiles",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -58,7 +58,7 @@
       <recent name="C:\Users\hussa\OneDrive\Documents\GitHub\Early-Java-Programs-\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Digits">
+  <component name="RunManager" selected="Application.Prompter">
     <configuration name="Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Digits" />
       <module name="Early-Java-Programs-" />
@@ -82,9 +82,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prompter" />
         <item itemvalue="Application.Digits" />
         <item itemvalue="Application.Distance2" />
-        <item itemvalue="Application.Prompter" />
       </list>
     </recent_temporary>
   </component>
