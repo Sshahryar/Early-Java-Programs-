@@ -356,3 +356,44 @@ Parentheses will be needed to specify the order of operations.
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/f7d438ec-7f6f-42d8-8f63-7f96bb3d315b)
 
 In this scenario of the code, the Fahrenheit temperature was entered as 60.
+
+## 9. Prompter.java
+
+### Description:
+
+Create a prompter application the user for two numbers. 
+The first number is a min value and the second is a max value.
+Prompter then prompts the user for a number between the min and max numbers entered.
+The user should be continually prompted until a number within the range is entered. 
+Be sure to include the min and max numbers in the prompt.
+
+### Source code: 
+
+	import java.util.Scanner;
+
+	public class Prompter { 
+
+	public static void main(String[] args) {
+
+	Scanner input = new Scanner(System.in); {
+
+	int min, max, num;
+
+	System.out.print("Enter a minimum number: "); 
+	min = input.nextInt();
+
+	System.out.print("Enter a maximum number: "); 
+	max = input.nextInt();
+	
+	do { 
+	System.out.print("Enter a number between "+min+" and "+max+": "); 
+	num = input.nextInt();
+	} while ((num < min)||(num > max));
+	}
+
+	}
+	}
+
+ ### Output:
+
+ 
