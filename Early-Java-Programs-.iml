@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
-    <output url="file:///production/Early-Java-Programs-" />
-    <output-test url="file:///test/Early-Java-Programs-" />
+    <output url="file://C:/production/Early-Java-Programs-" />
+    <output-test url="file://C:/" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.javafiles" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
