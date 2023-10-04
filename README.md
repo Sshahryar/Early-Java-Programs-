@@ -452,5 +452,24 @@ For an age less than or equal to 18, toddler is displayed when the age is less t
 
 ### Output:
 
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/aefc20da-4356-4658-879e-91385f002e2f)
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/995d932c-2b3a-4e12-b424-95a5db905571)
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/21c06b92-5d05-4c11-8c16-4585d396da5d)
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/8b984cdf-fb43-43a5-b578-522e2f734863)
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/728a2e3f-5178-4a06-a0e9-b0490088f056)
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/7263cdd0-ca41-4701-abf8-749a878d3e6b)
+
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/502be0c7-3b77-43b9-b79c-f24d28452060)
+
+
+
+
+
+
 
 
