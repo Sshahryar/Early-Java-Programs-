@@ -468,5 +468,5 @@ For an age less than or equal to 18, toddler is displayed when the age is less t
 
 ## Purpose of the programs:
 
-*bingocard.java*: A first java program, to learn simple console-based text output, with multiple lines of bingo rules which mimic a bingo card.
+1. *bingocard.java*: A first java program, to learn simple console-based text output, with multiple lines of bingo rules which mimic a bingo card.
 
