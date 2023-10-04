@@ -466,10 +466,7 @@ For an age less than or equal to 18, toddler is displayed when the age is less t
 
 ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/502be0c7-3b77-43b9-b79c-f24d28452060)
 
+## Purpose of the programs:
 
-
-
-
-
-
+*bingocard.java*: A first java program, to learn simple console-based text output, with multiple lines of bingo rules which mimic a bingo card.
 
