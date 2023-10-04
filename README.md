@@ -394,7 +394,18 @@ Be sure to include the min and max numbers in the prompt.
 	}
 	}
 
- ### Output:
+### Output:
 
- ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/37a940ac-2ac9-408e-91bc-fe7a58bea749)
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/37a940ac-2ac9-408e-91bc-fe7a58bea749)
+
+## 9. Stages.java
+
+### Description:
+
+Create a Stages application that prompts the user for an age. For an age over 18, adult is diplayed. 
+For an age less than or equal to 18, toddler is displayed when the age is less than or equal to 5, child when the age is less than or equal to 10, preteen when the age is less than or equal to 12, and teen when the age is over 12.
+
+### Source code:
+
+### Output:
 
