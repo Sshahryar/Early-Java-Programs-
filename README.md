@@ -394,7 +394,63 @@ Be sure to include the min and max numbers in the prompt.
 	}
 	}
 
- ### Output:
+### Output:
 
- ![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/37a940ac-2ac9-408e-91bc-fe7a58bea749)
+![image](https://github.com/Sshahryar/Early-Java-Programs-/assets/123003299/37a940ac-2ac9-408e-91bc-fe7a58bea749)
+
+## 9. Stages.java
+
+### Description:
+
+Create a Stages application that prompts the user for an age. For an age over 18, adult is diplayed. 
+For an age less than or equal to 18, toddler is displayed when the age is less than or equal to 5, child when the age is less than or equal to 10, preteen when the age is less than or equal to 12, and teen when the age is over 12.
+
+### Source code:
+
+	import java.util.Scanner;
+
+	public class Stages {
+
+	public static void main(String[] args) {
+        
+	Scanner inp = new Scanner(System.in);
+
+	System.out.print("Enter the age: ");
+	int age = inp.nextInt();
+
+	if(age >= 18){
+	System.out.println("You are an adult");
+	}
+
+	else if(age >= 13){
+	System.out.println("You are a teenager");
+	}
+        
+	else if(age >= 12){
+	System.out.println("You are a preteen");
+	}
+
+	else if(age >= 9){
+	System.out.println("You are a child");
+	}
+
+	else if (age >=3){
+	System.out.println("You are a toddler");
+	}
+
+	else if(age >=2){
+	System.out.println("You are a baby");
+	}
+
+	else if(age >=0){
+	System.out.println("ERROR! Negative age entered.");
+
+	}
+
+	}
+	}
+
+### Output:
+
+
 
