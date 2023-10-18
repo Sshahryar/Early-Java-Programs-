@@ -472,5 +472,5 @@ For an age less than or equal to 18, toddler is displayed when the age is less t
 2. *Distance2.java*: This introduced the java util scanner class, getting the users input, and then using those inputs through addition to form a string based statment.
 3. *RectanglePerimeter.java*: Further reinforced knowledge of strings and a more complex mathematical formula than Distance2.java, teaches how math and geometry can be involved in a program.
 4. *CircleCirc.java*: User input, using doubles as decimal numerical operator (π as 3.14), math, geometry, and formulas.
-5. *CircleCirc2.java*: Accounts for if the user inputs a negative, teaches to employ code that takes into accounnt different test cases of the program.
-6. *Digits.java*: 
+5. *CircleCirc2.java*: Similar to CircleCirc.java, however, accounts for if the user inputs a negative, teaches to employ code that takes into accounnt different test cases of the program.
+6. *Digits.java*: Usage of modulas operators to work with numbers.
